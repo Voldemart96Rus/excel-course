@@ -1,0 +1,17 @@
+Webpack (imports/exports)
+  babel
+  scss
+  eslint
+  2 modes
+   - dev
+     Dev Server, SourceMaps, ESlint, Not Minified JS & CSS
+   - prod
+     Minified Code
+git
+  Production 
+  1.0.0
+  0 ----------
+  Development
+  1.0.2
+  1 ------------      PR+ = 1 + 2
+  2 ---------------   |
